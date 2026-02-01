@@ -1,7 +1,6 @@
 import {motion} from 'motion/react'
 
 function Title({title, description}) {
-  console.log(title)
   return (
     <>
       <motion.h2

@@ -1,5 +1,4 @@
-
-import Title from './Title.JSX'
+import Title from './Title.jsx'
 import assets from '../assets/assets'
 import {motion} from 'motion/react'
 
